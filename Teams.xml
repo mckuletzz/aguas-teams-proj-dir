@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Teams>
+	<!-- 1-->
+  <Team Rank="2">
+    <Name>Cincinnati Bearcats</Name>
+    <College>University of Cincinati</College>
+    <Conference>American</Conference>
+    <Quarterback Height="6'4">
+      <Name>
+        <First>Desmond</First>
+        <Last>Ridder</Last>
+      </Name>
+      <Number>9</Number>
+      <QBR>70.9</QBR>
+    </Quarterback>
+	  <Quarterback Height="6'1">
+		  <Name>
+			  <First>Jacob</First>
+			  <Last>Hoying</Last>
+		  </Name>
+		  <Number>13</Number>
+		  <QBR></QBR>
+	  </Quarterback>
+    <Schedule>
+      <Wk1>vs Miami (OH)</Wk1>
+      <Wk2>vs Murray State</Wk2>
+      <Wk3>at Indiana</Wk3>
+    </Schedule>
+  </Team>
+
+	<!-- 2-->
+	<Team Rank="4">
+		<Name>East Carolina Pirates</Name>
+		<College>East Carolina University</College>
+		<Conference>American</Conference>
+		<Quarterback Height="6'3">
+			<Name>
+				<First>Holton</First>
+				<Last>Ahlers</Last>
+			</Name>
+			<Number>12</Number>
+			<QBR>52.4</QBR>
+		</Quarterback>
+		<Quarterback Height="6'1">
+			<Name>
+				<First>Alex</First>
+				<Last>Flinn</Last>
+			</Name>
+			<Number>15</Number>
+			<QBR></QBR>
+		</Quarterback>
+		<Schedule>
+			<Wk1>vs Appalachian State</Wk1>
+			<Wk2>vs South Carolina</Wk2>
+			<Wk3>at Marshall</Wk3>
+		</Schedule>
+	</Team>
+
+	<!-- 3-->
+	<Team Rank="1">
+		<Name>Houston Cougars</Name>
+		<College>University of Houston</College>
+		<Conference>American</Conference>
+		<Quarterback Height="6'1">
+			<Name>
+				<First>Ike</First>
+				<Last>Ogbogu</Last>
+			</Name>
+			<Number>14</Number>
+			<QBR>32.5</QBR>
+		</Quarterback>
+		<Quarterback Height="6'3">
+			<Name>
+				<First>Holman</First>
+				<Last>Edwards</Last>
+			</Name>
+			<Number>16</Number>
+			<QBR></QBR>
+		</Quarterback>
+		<Schedule>
+			<Wk1>vs Texas Tech</Wk1>
+			<Wk2>at Rice</Wk2>
+			<Wk3>vs Grambling</Wk3>
+		</Schedule>
+	</Team>
+	
+	<!-- 4-->
+	<Team Rank="6">
+		<Name>Memphis Tigers</Name>
+		<College>University of Memphis</College>
+		<Conference>American</Conference>
+		<Quarterback Height="6'3">
+			<Name>
+				<First>Seth</First>
+				<Last>Henigan</Last>
+			</Name>
+			<Number>14</Number>
+			<QBR>65.3</QBR>
+		</Quarterback>
+		<Quarterback Height="6'3">
+			<Name>
+				<First>Peter</First>
+				<Last>Parrish</Last>
+			</Name>
+			<Number>1</Number>
+			<QBR>28.3</QBR>
+		</Quarterback>
+		<Schedule>
+			<Wk1>vs Nicholls</Wk1>
+			<Wk2>at Arkansas State</Wk2>
+			<Wk3>vs Mississippi State</Wk3>
+		</Schedule>
+	</Team>
+
+	<!-- 5-->
+	<Team Rank="8">
+		<Name>Navy Midshipmen</Name>
+		<College>United States Naval Academy</College>
+		<Conference>American</Conference>
+		<Quarterback Height="5'9">
+			<Name>
+				<First>Xavier</First>
+				<Last>Arline</Last>
+			</Name>
+			<Number>7</Number>
+			<QBR>19.0</QBR>
+		</Quarterback>
+		<Quarterback Height="6'2">
+			<Name>
+				<First>Tai</First>
+				<Last>Lavatai</Last>
+			</Name>
+			<Number>1</Number>
+			<QBR>24.4</QBR>
+		</Quarterback>
+		<Schedule>
+			<Wk1>vs Marshall</Wk1>
+			<Wk2>at Air Force</Wk2>
+			<Wk3>at Houston</Wk3>
+		</Schedule>
+	</Team>
+
+	<!-- 6-->
+	<Team Rank="4">
+		<Name>SMU Mustangs</Name>
+		<College>Southern Methodist University</College>
+		<Conference>American</Conference>
+		<Quarterback Height="6'2">
+			<Name>
+				<First>Tanner</First>
+				<Last>Mordecai</Last>
+			</Name>
+			<Number>8</Number>
+			<QBR>71.2</QBR>
+		</Quarterback>
+		<Quarterback Height="6'2">
+			<Name>
+				<First>Preston</First>
+				<Last>Stone</Last>
+			</Name>
+			<Number>2</Number>
+			<QBR></QBR>
+		</Quarterback>
+		<Schedule>
+			<Wk1>vs Abilene Christian</Wk1>
+			<Wk2>vs North Texas</Wk2>
+			<Wk3>at Louisiana Tech</Wk3>
+		</Schedule>
+	</Team>
+
+	<!-- 7-->
+	<Team Rank="9">
+		<Name>South Florida Bulls</Name>
+		<College>University of South Florida</College>
+		<Conference>American</Conference>
+		<Quarterback Height="6'3">
+			<Name>
+				<First>Cade</First>
+				<Last>Fortin</Last>
+			</Name>
+			<Number>6</Number>
+			<QBR>24.5</QBR>
+		</Quarterback>
+		<Quarterback Height="6'5">
+			<Name>
+				<First>Katravis</First>
+				<Last>Marsh</Last>
+			</Name>
+			<Number>12</Number>
+			<QBR>24.3</QBR>
+		</Quarterback>
+		<Schedule>
+			<Wk1>at NC State</Wk1>
+			<Wk2>vs 13 Florida</Wk2>
+			<Wk3>vs Florida A&amp;M</Wk3>
+		</Schedule>
+	</Team>
+
+	<!-- 8-->
+	<Team Rank="9">
+		<Name>Temple Owls</Name>
+		<College>Temple University</College>
+		<Conference>American</Conference>
+		<Quarterback Height="6'1">
+			<Name>
+				<First>Justin</First>
+				<Last>Lynch</Last>
+			</Name>
+			<Number>13</Number>
+			<QBR>27.1</QBR>
+		</Quarterback>
+		<Quarterback Height="6'6">
+			<Name>
+				<First>D'wan</First>
+				<Last>Mathis</Last>
+			</Name>
+			<Number>18</Number>
+			<QBR>40.2</QBR>
+		</Quarterback>
+		<Schedule>
+			<Wk1>at Rutgers</Wk1>
+			<Wk2>at Akron</Wk2>
+			<Wk3>vs Boston College</Wk3>
+		</Schedule>
+	</Team>
+
+	<!-- 9-->
+	<Team>
+		<Name>Tulane Green Wave</Name>
+		<College>Tulane University</College>
+		<Conference>American</Conference>
+		<Quarterback Height="6'4">
+			<Name>
+				<First>Kai</First>
+				<Last>Horton</Last>
+			</Name>
+			<Number>12</Number>
+			<QBR>4.8</QBR>
+		</Quarterback>
+		<Quarterback Height="6'5">
+			<Name>
+				<First>Justin</First>
+				<Last>Ibieta</Last>
+			</Name>
+			<Number>13</Number>
+			<QBR>70.6</QBR>
+		</Quarterback>
+		<Schedule>
+			<Wk1>at 2 Oklahoma</Wk1>
+			<Wk2>vs Morgan State</Wk2>
+			<Wk3>at 17 Ole Miss</Wk3>
+		</Schedule>
+	</Team>
+
+	<!--10-->
+	<Team>
+		<Name>Tulsa Golden Hurricane</Name>
+		<College>University of Tulsa</College>
+		<Conference>American</Conference>
+		<Quarterback Height="6'2">
+			<Name>
+				<First>Davis</First>
+				<Last>Brin</Last>
+			</Name>
+			<Number>7</Number>
+			<QBR>48.2</QBR>
+		</Quarterback>
+		<Quarterback Height="6'3">
+			<Name>
+				<First>Seth</First>
+				<Last>Boomer</Last>
+			</Name>
+			<Number>12</Number>
+			<QBR></QBR>
+		</Quarterback>
+		<Schedule>
+			<Wk1>vs UC Davis</Wk1>
+			<Wk2>at Oklahoma State</Wk2>
+			<Wk3>at 9 Ohio State</Wk3>
+		</Schedule>
+	</Team>
+
+	<!--11-->
+	<Team>
+		<Name>UCF Knights</Name>
+		<College>University of Central Florida</College>
+		<Conference>American</Conference>
+		<Quarterback Height="6'0">
+			<Name>
+				<First>Dillon</First>
+				<Last>Gabriel</Last>
+			</Name>
+			<Number>11</Number>
+			<QBR>68.7</QBR>
+		</Quarterback>
+		<Quarterback Height="6'5">
+			<Name>
+				<First>Joey</First>
+				<Last>Gatewood</Last>
+			</Name>
+			<Number>7</Number>
+			<QBR>69.2</QBR>
+		</Quarterback>
+		<Schedule>
+			<Wk1>vs Boise State</Wk1>
+			<Wk2>vs Bethune-Cookman</Wk2>
+			<Wk3>at Louisville</Wk3>
+		</Schedule>
+	</Team>
+
+	<!--12-->
+	<Team>
+		<Name>Akron Zips</Name>
+		<College>University of Akron</College>
+		<Conference>Mid-American</Conference>
+		<Quarterback Height="6'3">
+			<Name>
+				<First>Zach</First>
+				<Last>Gibson</Last>
+			</Name>
+			<Number>5</Number>
+			<QBR>73.8</QBR>
+		</Quarterback>
+		<Quarterback Height="6'6">
+			<Name>
+				<First>DJ</First>
+				<Last>Irons</Last>
+			</Name>
+			<Number>0</Number>
+			<QBR>37.4</QBR>
+		</Quarterback>
+		<Schedule>
+			<Wk1>at Auburn</Wk1>
+			<Wk2>vs Temple</Wk2>
+			<Wk3>at Bryant</Wk3>
+		</Schedule>
+	</Team>
+
+	<!--13-->
+	<Team>
+		<Name>Arizona State Sun Devils</Name>
+		<College>Arizona State University</College>
+		<Conference>PAC-12</Conference>
+		<Quarterback Height="6'3">
+			<Name>
+				<First>Jayden</First>
+				<Last>Daniels</Last>
+			</Name>
+			<Number>5</Number>
+			<QBR>69.1</QBR>
+		</Quarterback>
+		<Quarterback Height="6'3">
+			<Name>
+				<First>Nathan</First>
+				<Last>Manning</Last>
+			</Name>
+			<Number>12</Number>
+			<QBR></QBR>
+		</Quarterback>
+		<Schedule>
+			<Wk1>vs Southern Utah</Wk1>
+			<Wk2>vs UNLV</Wk2>
+			<Wk3>at BYU</Wk3>
+		</Schedule>
+	</Team>
+
+	<!--14-->
+	<Team>
+		<Name>Arizona Wildcats</Name>
+		<College>University of Arizona</College>
+		<Conference>PAC-12</Conference>
+		<Quarterback Height="6'5">
+			<Name>
+				<First>Gunner</First>
+				<Last>Cruz</Last>
+			</Name>
+			<Number>9</Number>
+			<QBR>40.9</QBR>
+		</Quarterback>
+		<Quarterback Height="6'0">
+			<Name>
+				<First>Jordan</First>
+				<Last>McCloud</Last>
+			</Name>
+			<Number>4</Number>
+			<QBR>66.5</QBR>
+		</Quarterback>
+		<Schedule>
+			<Wk1>vs BYU</Wk1>
+			<Wk2>vs San Diego State</Wk2>
+			<Wk3>vs Northern Arizona</Wk3>
+		</Schedule>
+	</Team>
+
+	<!--15-->
+	<Team>
+		<Name>Buffalo Bulls</Name>
+		<College>University of Buffalo</College>
+		<Conference>Mid-American</Conference>
+		<Quarterback Height="6'4">
+			<Name>
+				<First>Matt</First>
+				<Last>Myers</Last>
+			</Name>
+			<Number>10</Number>
+			<QBR>29.8</QBR>
+		</Quarterback>
+		<Quarterback Height="6'3">
+			<Name>
+				<First>Kyle</First>
+				<Last>Vantrease</Last>
+			</Name>
+			<Number>7</Number>
+			<QBR>57.0</QBR>
+		</Quarterback>
+		<Schedule>
+			<Wk1>vs Wagner</Wk1>
+			<Wk2>at Nebraska</Wk2>
+			<Wk3>vs 16 Coastal Carolina</Wk3>
+		</Schedule>
+	</Team>
+	
+</Teams>
