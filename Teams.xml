@@ -19,7 +19,7 @@
 			  <Last>Hoying</Last>
 		  </Name>
 		  <Number>13</Number>
-		  <QBR></QBR>
+		  <QBR>45.5</QBR>
 	  </Quarterback>
     <Schedule>
       <Wk1>vs Miami (OH)</Wk1>
@@ -47,7 +47,7 @@
 				<Last>Flinn</Last>
 			</Name>
 			<Number>15</Number>
-			<QBR></QBR>
+			<QBR>49.7</QBR>
 		</Quarterback>
 		<Schedule>
 			<Wk1>vs Appalachian State</Wk1>
@@ -75,7 +75,7 @@
 				<Last>Edwards</Last>
 			</Name>
 			<Number>16</Number>
-			<QBR></QBR>
+			<QBR>44.7</QBR>
 		</Quarterback>
 		<Schedule>
 			<Wk1>vs Texas Tech</Wk1>
@@ -159,7 +159,7 @@
 				<Last>Stone</Last>
 			</Name>
 			<Number>2</Number>
-			<QBR></QBR>
+			<QBR>55.0</QBR>
 		</Quarterback>
 		<Schedule>
 			<Wk1>vs Abilene Christian</Wk1>
@@ -271,7 +271,7 @@
 				<Last>Boomer</Last>
 			</Name>
 			<Number>12</Number>
-			<QBR></QBR>
+			<QBR>14.8</QBR>
 		</Quarterback>
 		<Schedule>
 			<Wk1>vs UC Davis</Wk1>
@@ -355,7 +355,7 @@
 				<Last>Manning</Last>
 			</Name>
 			<Number>12</Number>
-			<QBR></QBR>
+			<QBR>27.7</QBR>
 		</Quarterback>
 		<Schedule>
 			<Wk1>vs Southern Utah</Wk1>
